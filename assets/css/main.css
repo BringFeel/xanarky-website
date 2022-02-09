@@ -2261,6 +2261,7 @@ input, select, textarea {
 	position: absolute;
 	text-align: center;
 	width: 100%;
+       font-size: 3vw;
   }
 
 /* Copyright */
@@ -2424,6 +2425,8 @@ input, select, textarea {
 
 			#logo {
 				top: 0;
+				font-size: 4vw;
+                                line-height: 1.0;
 			}
 
 		/* Intro */
