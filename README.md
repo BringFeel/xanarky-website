@@ -1,7 +1,7 @@
 ![](https://github.com/BringFeel/xanarky-website/blob/main/xanarky-banner.png "Xanarky banner")
 
 ## Plantillas y Códigos utilizados
-[html5up Aerial](https://html5up.net/aerial)\
+[html5up Escape Velocity](https://html5up.net/escape-velocity)\
 [CSS PARTICLES](https://codepen.io/alexitaylor/pen/RgxJwg)
 ## Links en la Web
 [Donate](https://donate.xanarky.com.ar/)\
