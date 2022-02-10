@@ -2204,9 +2204,9 @@ input, select, textarea {
 #footer {
 	bottom: 0;
 	cursor: default;
-	height: 3em;
+	height: 2em;
 	left: 0;
-	line-height: 8em;
+	line-height: 10em;
 	position: absolute;
 	text-align: bottom;
 	width: 100%;
