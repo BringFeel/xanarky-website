@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body {
+  background-color: #181818;
+  color: #fff;
+  font-family: 'Orbitron', sans-serif;
+}
+
+#main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.table-dark {
+  background-color: rgba(33, 37, 41, 0.8);
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.active-category {
+  color: #00aaff;
+}
+
+/* Estilos específicos para la tabla de comandos */
+.comandos-table th, .comandos-table td {
+  text-align: left;
+  padding-left: 15px;
+}
+/* Columna de comando en color azul */
+#comandos td:first-child {
+  color: #00aaff; /* Color azul para la columna de comandos */
+}
+
+.info-adicional {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.9em;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #00aaff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
