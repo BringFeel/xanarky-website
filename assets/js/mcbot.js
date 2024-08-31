@@ -5,9 +5,10 @@ const comandos = {
     {comando: "Wiki", descripcion: "Busca y muestra información de Wikipedia", uso: "?wiki [tema]"},
     {comando: "Hora", descripcion: "Muestra la hora actual en un país", uso: "?hora [país]"},
     {comando: "Traducir", descripcion: "Traduce texto al idioma especificado", uso: "?traducir [idioma] [texto]", infoAdicional: "Algunos idiomas disponibles son: es ,en ,hi ,ar ,bn ,pt ,ru ,ja ,de ,zh-cn"},
-    {comando: "Ayuda", descripcion: "Muestra los comandos disponibles", uso: "?ayuda"},
+    {comando: "Jd", descripcion: "Muestra la fecha y hora exacta de la primera vez que un jugador se unió al servidor", uso: "?jd [Nombre]"},
     {comando: "Calcular Overworld", descripcion: "Convierte coordenadas del Nether al Overworld", uso: "?calcularover [X Y Z]"},
-    {comando: "Calcular Nether", descripcion: "Convierte coordenadas del Overworld al Nether", uso: "?calcularnether [X Y Z]"}
+    {comando: "Calcular Nether", descripcion: "Convierte coordenadas del Overworld al Nether", uso: "?calcularnether [X Y Z]"},
+    {comando: "Ayuda", descripcion: "Muestra los comandos disponibles", uso: "?ayuda"}
   ],
   Entretenimiento: [
     {comando: "Decir", descripcion: "Repite el mensaje especificado", uso: "?decir [mensaje]"},
@@ -15,6 +16,7 @@ const comandos = {
     {comando: "Tirar un dado", descripcion: "Lanza un dado y muestra el resultado", uso: "?tirar un dado"},
     {comando: "Trivia", descripcion: "Inicia una trivia o responde a una pregunta", uso: "?trivia"},
     {comando: "Chiste", descripcion: "Cuenta un chiste aleatorio", uso: "?chiste"},
+    {comando: "Deberia", descripcion: "Da una respuesta total mente hacertada a tu pregunta", uso: "?Deberia"},
     {comando: "Ven", descripcion: "Teletransporta al bot hacia un jugador", uso: "?ven"},
     {comando: "Kill", descripcion: "Hace que el bot se suicide", uso: "?kill"}
   ]
